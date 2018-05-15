@@ -1,13 +1,13 @@
-a basic pipeline:
+a basic pipelining course material consist of
 
-phyton code and unit test
+-phyton code and unit test
 
-github
+-github
 
-travisCI
+-travisCI
 
-bettercode
+-bettercode
 
-docker
+-docker
 
-heroku
+-heroku
