@@ -1,3 +1,5 @@
+REPO=aygun/cicd-buzz
+
 # Change into current script directory
 cd "$(dirname "$0")"
 
